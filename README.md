@@ -12,5 +12,5 @@ pip3 install pygame
 ![image](https://github.com/potatoSalad21/Snake-Pygame/assets/114908676/c8b39306-168d-46e5-9dad-64c6a68d42e9)
 
 ## Prerequisites
-• [Python](https://www.python.org)
-• [Pygame](https://www.pygame.org/wiki/GettingStarted)
+* [Python](https://www.python.org)
+* [Pygame](https://www.pygame.org/wiki/GettingStarted)
